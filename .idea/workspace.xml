@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e10c6f1-02ad-4d70-80c5-fcb27de31584" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/User.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qatrainnigv.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/java/signin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pages/register_page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pages/signIn_page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/stepdefinitions/register.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/stepdefinitions/signin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/webDriverClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runcukes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/register.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/signin.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/signinOutline.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/qatrainnigv.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/java/signin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/qatrainnigv.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/hooks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/pages/register_page.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/pages/signIn_page.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/stepdefinitions/register.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/stepdefinitions/signin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/webDriverClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/register.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/runcukes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/signin.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/signinOutline.feature" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/signinOutline.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="433">
+              <caret line="28" column="65" selection-start-line="28" selection-start-column="65" selection-end-line="28" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/webDriverClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="45" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#855#856#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/runcukes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/register.feature">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/stepdefinitions/register.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/pages/register_page.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/signin.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="31" selection-start-line="9" selection-start-column="2" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/stepdefinitions/signin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="205" selection-start-line="205" selection-end-line="205" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#725#726#0" expanded="true" />
+                <element signature="e#773#774#0" expanded="true" />
+                <element signature="e#3594#3595#0" expanded="true" />
+                <element signature="e#3654#3655#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/pages/signIn_page.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#700#701#0" expanded="true" />
+                <element signature="e#994#995#0" expanded="true" />
+                <element signature="e#1064#1065#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>C:\Users\User\IdeaProjects\qatrainnigv\src\test\java\com\stepdefinitions</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/stepdefinitions/login.java" />
+        <option value="$PROJECT_DIR$/src/test/java/login.java" />
+        <option value="$PROJECT_DIR$/src/test/java/stepdefinitions/signin/Java.java" />
+        <option value="$PROJECT_DIR$/src/test/java/stepdefinitions/test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/signin.java" />
+        <option value="$PROJECT_DIR$/src/test/java/driver_class.java" />
+        <option value="$PROJECT_DIR$/src/test/java/hooks.java" />
+        <option value="$PROJECT_DIR$/src/test/java/stepdefinitions/signin.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pom/signin.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pom/stepdefinitions/signin.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stepdefinitions/WebDriverClass.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/RunCukes.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/java/RunCukesImpl.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/RunCukes.java" />
+        <option value="$PROJECT_DIR$/src/test/java/java/RunCukes.java" />
+        <option value="$PROJECT_DIR$/src/test/java/runcukes" />
+        <option value="$PROJECT_DIR$/src/test/resources/runcukes" />
+        <option value="$PROJECT_DIR$/src/test/java/RunCukes.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testRunners/RunCukes.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testrunners.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testRunners/testrunners.java" />
+        <option value="$PROJECT_DIR$/src/test/java/runCukes/testrunners.java" />
+        <option value="$PROJECT_DIR$/src/test/java/runCukes.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hooks.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/pages/signin_page.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/signin.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/com/webDriverClass.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/pages/signIn_page.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stepdefinitions/signin.java" />
+        <option value="$PROJECT_DIR$/src/test/java/runcukes.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/signinOutline.feature" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1260" />
+    <option name="height" value="944" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="qatrainnigv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qatrainnigv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qatrainnigv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qatrainnigv" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qatrainnigv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qatrainnigv" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qatrainnigv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qatrainnigv" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qatrainnigv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qatrainnigv" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qatrainnigv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qatrainnigv" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qatrainnigv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qatrainnigv" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qatrainnigv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qatrainnigv" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stepdefinitions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qatrainnigv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qatrainnigv" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\qatrainnigv\src\test" />
+      <recent name="C:\Users\User\IdeaProjects\qatrainnigv\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="java" />
+      <recent name="j" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\qatrainnigv\src\test\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="java" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="java" />
+      <recent name="com.stepdefinitions" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="RunCukes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qatrainnigv" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RunCukes" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunCukes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qatrainnigv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="java" />
+      <option name="MAIN_CLASS_NAME" value="java.RunCukes" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunCukes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qatrainnigv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="MAIN_CLASS_NAME" value="com.RunCukes" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunCukes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qatrainnigv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="java" />
+      <option name="MAIN_CLASS_NAME" value="java.RunCukes" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="runcukes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qatrainnigv" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="runcukes" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-Dbrowser=firefox" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.runcukes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e10c6f1-02ad-4d70-80c5-fcb27de31584" name="Default Changelist" comment="" />
+      <created>1558532562983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558532562983</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="runcukes_(2) - 2019.06.11 at 14h 54m 27s.xml">
+      <configuration name="runcukes (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="runcukes_(3) - 2019.06.11 at 14h 54m 51s.xml">
+      <configuration name="runcukes (3)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="runcukes_(4) - 2019.06.11 at 14h 58m 46s.xml">
+      <configuration name="runcukes (4)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="runcukes_(5) - 2019.06.11 at 14h 59m 50s.xml">
+      <configuration name="runcukes (5)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="runcukes_(1) - 2019.06.11 at 19h 21m 26s.xml">
+      <configuration name="runcukes (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="runcukes_(1) - 2019.06.11 at 19h 23m 12s.xml">
+      <configuration name="runcukes (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="runcukes_(1) - 2019.06.11 at 19h 23m 15s.xml">
+      <configuration name="runcukes (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="runcukes_(2) - 2019.06.11 at 19h 25m 27s.xml">
+      <configuration name="runcukes (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="runcukes_(2) - 2019.06.11 at 19h 27m 04s.xml">
+      <configuration name="runcukes (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="runcukes - 2019.06.11 at 19h 28m 27s.xml">
+      <configuration name="runcukes" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="20" width="1260" height="944" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36083335" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3292232" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3292232" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39950678" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3292232" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3292232" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/runCukes/testrunners.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/webDriverClass.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/qatrainnigv$RunCukes.ic" NAME="RunCukes Coverage Results" MODIFIED="1559322401198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.1.3/cucumber-core-1.1.3.jar!/cucumber/runtime/io/FileResourceIterator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.1.3/cucumber-core-1.1.3.jar!/cucumber/runtime/Runtime.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinitions/login.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/login.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinitions/signin/Java.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinitions/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/RunCukes/Java.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/testdata/RunCukes.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/testdata/RunCukes/Java.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/hooks.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stepdefinitions/WebDriverClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/RunCukes.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/java/signin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/runCukes" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/runcukes" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/testRunners/RunCukes.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/runCukes/testrunners.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/reflect/Constructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="499" column="24" selection-start-line="499" selection-start-column="24" selection-end-line="499" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hooks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/signin.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="31" selection-start-line="9" selection-start-column="2" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/register.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stepdefinitions/register.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stepdefinitions/signin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="205" selection-start-line="205" selection-end-line="205" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
+            <element signature="e#3594#3595#0" expanded="true" />
+            <element signature="e#3654#3655#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/runcukes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/webDriverClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/signinOutline.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="28" column="65" selection-start-line="28" selection-start-column="65" selection-end-line="28" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pages/register_page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/pages/signIn_page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#994#995#0" expanded="true" />
+            <element signature="e#1064#1065#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>qatrainnigv</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.code.findbugs:jsr305:1.3.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
