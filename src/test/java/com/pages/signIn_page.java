@@ -35,7 +35,6 @@ public class signIn_page extends webDriverClass {
 
     public void enterPassword(String password) {
         driver.findElement(By.name("password")).sendKeys(password);
-
             }
 
 
