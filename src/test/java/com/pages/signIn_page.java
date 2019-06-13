@@ -43,7 +43,7 @@ public class signIn_page extends webDriverClass {
     }
 
     public void asserterrormessageOnSignInPage(String errorMessage_exp) {
-        driver.findElement(By.linkText("SubmitLogin")).click();
+        driver.findElement(By.linkText("SubmitLogin")).click()
 
     }
 }
