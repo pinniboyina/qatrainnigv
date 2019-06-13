@@ -1,39 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e10c6f1-02ad-4d70-80c5-fcb27de31584" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/User.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qatrainnigv.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/java/signin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pages/register_page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pages/signIn_page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/stepdefinitions/register.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/stepdefinitions/signin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/webDriverClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runcukes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/register.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/signin.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/signinOutline.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/qatrainnigv.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/java/signin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/qatrainnigv.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/hooks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/pages/register_page.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/pages/signIn_page.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/stepdefinitions/register.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/stepdefinitions/signin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/webDriverClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/register.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/runcukes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/signin.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/signinOutline.feature" afterDir="false" />
+    <list default="true" id="5e10c6f1-02ad-4d70-80c5-fcb27de31584" name="Default Changelist" comment="2nd commit">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qatrainnigv.iml" beforeDir="false" afterPath="$PROJECT_DIR$/qatrainingv.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -86,7 +57,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/runcukes.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -145,11 +116,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/pages/signIn_page.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+            <state relative-caret-position="102">
+              <caret line="36" column="67" selection-start-line="36" selection-start-column="67" selection-end-line="36" selection-end-column="67" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#700#701#0" expanded="true" />
+                <element signature="e#750#751#0" expanded="true" />
+                <element signature="e#833#834#0" expanded="true" />
                 <element signature="e#994#995#0" expanded="true" />
                 <element signature="e#1064#1065#0" expanded="true" />
               </folding>
@@ -205,10 +178,10 @@
         <option value="$PROJECT_DIR$/src/test/resources/signin.feature" />
         <option value="$PROJECT_DIR$/src/test/java/com/webDriverClass.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/com/pages/signIn_page.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/stepdefinitions/signin.java" />
         <option value="$PROJECT_DIR$/src/test/java/runcukes.java" />
         <option value="$PROJECT_DIR$/src/test/resources/signinOutline.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/com/pages/signIn_page.java" />
       </list>
     </option>
   </component>
@@ -394,13 +367,60 @@
       </method>
     </configuration>
     <configuration name="runcukes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="qatrainnigv" />
+      <module name="qatrainingv" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="runcukes" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-Dbrowser=firefox" />
       <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="qatrainingv" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="qatrainingv" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -422,6 +442,21 @@
       <option name="presentableId" value="Default" />
       <updated>1558532562983</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1560279697339</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560279697339</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2nd commit">
+      <created>1560279843474</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560279843474</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -487,6 +522,11 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="2nd commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -605,7 +645,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/runcukes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -639,11 +679,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/pages/signIn_page.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="102">
+          <caret line="36" column="67" selection-start-line="36" selection-start-column="67" selection-end-line="36" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+            <element signature="e#833#834#0" expanded="true" />
             <element signature="e#994#995#0" expanded="true" />
             <element signature="e#1064#1065#0" expanded="true" />
           </folding>
