@@ -8,16 +8,16 @@ Feature: sign in
   Scenario: submit with all valid fields
 
     Given enter first name as "Kalyani"
-    Given enter last name as "Abhi"
-    Given enter email id as "testkalyani@hotmail.com"
-    Given enter password as “fun123”
-    Given confirm pass word “fun123”
-    When I click "register button"
-    Then I should see my "account button"
-    Then I should see "logout button"
-    Then I should see "firstname" as header
+  Given enter last name as "Kishore"
+  Given enter email id as "testkalyani@hotmail.com"
+  Given enter password as “fun123”
+  Given confirm pass word “fun123”
+  When I click "register button"
+  Then I should see my "account button"
+  Then I should see "logout button"
+  Then I should see "firstname" as header
 
-    Then I should not see "signin button"
+  Then I should not see "signin button"
 
   @contact
   Scenario: CUSTOMER SERVICE
